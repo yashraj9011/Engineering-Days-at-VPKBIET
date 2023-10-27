@@ -16,9 +16,8 @@ Journey of my engineering days at VPKBIET Baramati .
 
 
 # Auditorium 
-  ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231016100715.jpg)
 
-  
+   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231016100706.jpg)
    
 # Department of Artificial Intelligence and Data Science Engineering 
 
