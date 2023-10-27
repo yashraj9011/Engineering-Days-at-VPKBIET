@@ -24,7 +24,8 @@ Journey of my engineering days at VPKBIET Baramati .
 ## Annual Sports Event Kurukshetra
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG-20230503-WA0015.jpg)
 ## Annual Social Gathering 
-
+  ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG-20230508-WA0029.jpg)
+  
 ## 
 
 
