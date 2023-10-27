@@ -30,7 +30,7 @@ Journey of my engineering days at VPKBIET Baramati .
 # Student Association of Artificial Intelligence and Data Science (SAAI)
 
 # Industrial Visit 
-
+  ![Logo]()
 # Annual Sports Event Kurukshetra
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG-20230503-WA0015.jpg)
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG-20230224-WA0014.jpg)
