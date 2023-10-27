@@ -6,6 +6,8 @@ Journey of my engineering days at VPKBIET Baramati .
 
 ## Centre For Execellance For Youth Development 
 
+  ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231027115326.jpg)
+
 ### Supported by Bharat Forge Limited
 
 ### Projects
