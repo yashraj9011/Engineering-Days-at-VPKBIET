@@ -10,16 +10,18 @@ Journey of my engineering days at VPKBIET Baramati .
 
 - Projects
 
-  ![Logo](
 
 ## Auditorium 
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231016100715.jpg)
 
    ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231016095024.jpg)
+   
 ## Department of Artificial Intelligence and Data Science Engineering 
 
 
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231011142010.jpg)
+
+  
 ## Student Association of Artificial Intelligence and Data Science (SAAI)
 
 ## Industrial Visit 
