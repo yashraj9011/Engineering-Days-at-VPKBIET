@@ -29,7 +29,7 @@ Journey of my engineering days at VPKBIET Baramati .
  ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG_20230920_143953.jpg)  
 
 ## Identity Card
-
+ ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG_20231027_144201.jpg)
 
 # Student Association of Artificial Intelligence and Data Science (SAAI)
 
