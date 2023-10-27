@@ -16,6 +16,8 @@ Journey of my engineering days at VPKBIET Baramati .
 
 ## Department of Artificial Intelligence and Data Science Engineering 
 
+
+  ![Logo]()
 ## Student Association of Artificial Intelligence and Data Science (SAAI)
 ## Industrial Visit 
 
