@@ -4,13 +4,13 @@ Journey of my engineering days at VPKBIET Baramati .
 
 ##  Campus Photography
 
-## Centre For Execellance For Youth Development 
+## Centre For Excellance For Youth Development 
 
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231027115326.jpg)
 
-### Supported by Bharat Forge Limited
+## Supported by Bharat Forge Limited
 
-### Projects
+## Projects
 
 
 # Auditorium 
@@ -30,7 +30,7 @@ Journey of my engineering days at VPKBIET Baramati .
 # Student Association of Artificial Intelligence and Data Science (SAAI)
 
 # Industrial Visit 
-  ![Logo]()
+  ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/Screenshot%202023-10-27%20161247.png)
 # Annual Sports Event Kurukshetra
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG-20230503-WA0015.jpg)
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG-20230224-WA0014.jpg)
