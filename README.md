@@ -12,12 +12,12 @@ Journey of my engineering days at VPKBIET Baramati .
 
 
 
-## Centre For Excellance For Youth Development 
+## Centre For Excellance For Youth Development Supported by Bharat Forge Limited
 
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231027115326.jpg)
  ![Logo]( https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/IMG20231027115239.jpg)
 
-## Supported by Bharat Forge Limited
+## Incubation Centre by Entreprenurship Development Cell in Association with Institution's Innovation Council
 
 ## Projects
 
