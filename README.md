@@ -9,7 +9,7 @@
 
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/1.jpeg)
 
-## Outof Campus Photography
+## Out of Campus Photography
 
 
 
