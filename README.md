@@ -1,7 +1,6 @@
 
 # Engineering-Days-at-VPKBIET
 ## Journey of my engineering days at VPKBIET Baramati . 
-## Photography did in campus during my Engineering days .
 
 #  Campus Photography
 
