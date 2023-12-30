@@ -4,6 +4,11 @@
 
 #  Campus Photography
 
+
+## VBKBIET 
+
+![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/WhatsApp%20Image%202023-12-28%20at%203.47.20%20PM.jpeg)
+
 ## Library
 
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/1.jpeg)
