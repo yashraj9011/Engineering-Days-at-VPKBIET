@@ -13,6 +13,10 @@
 
   ![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/1.jpeg)
 
+
+## My Setup
+
+![Logo](https://github.com/yashraj9011/Engineering-Days-at-VPKBIET/blob/main/Images/WhatsApp%20Image%202024-01-26.jpeg)
 ## Out of Campus Photography
 
 
